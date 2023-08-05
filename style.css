@@ -1,0 +1,12 @@
+body{
+    background-image: url("cool earth.jpg");
+    background-size:cover ;
+}
+#heading{
+    color: cyan;
+}
+.login_player1,.login_player2{
+    background-color: white;
+    padding: 30px;
+    float: none;
+}
